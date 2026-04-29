@@ -1,0 +1,43 @@
+export const lightColors = {
+  background: '#F2F2F7',
+  card: '#FFFFFF',
+  inputBg: '#FFFFFF',
+  primary: '#1B3D8F',
+  primaryText: '#FFFFFF',
+  text: '#1C1C1E',
+  textSecondary: '#8E8E93',
+  placeholder: '#C7C7CC',
+  border: '#E5E5EA',
+  chipMarket: '#FFF3E0',
+  chipMarketBorder: '#FF9500',
+  chipMarketText: '#E07900',
+  chipKisisel: '#F5EEFF',
+  chipKisiselBorder: '#AF52DE',
+  chipKisiselText: '#8B2FC9',
+  danger: '#FF3B30',
+  white: '#FFFFFF',
+  circleBorder: '#C7C7CC',
+};
+
+export const darkColors = {
+  background: '#1C1C1E',
+  card: '#2C2C2E',
+  inputBg: '#3A3A3C',
+  primary: '#4B7BF5',
+  primaryText: '#FFFFFF',
+  text: '#FFFFFF',
+  textSecondary: '#ABABAB',
+  placeholder: '#6C6C6C',
+  border: '#38383A',
+  chipMarket: 'rgba(255,149,0,0.18)',
+  chipMarketBorder: '#FF9500',
+  chipMarketText: '#FF9500',
+  chipKisisel: 'rgba(175,82,222,0.18)',
+  chipKisiselBorder: '#BF6EEE',
+  chipKisiselText: '#BF6EEE',
+  danger: '#FF453A',
+  white: '#FFFFFF',
+  circleBorder: '#6C6C6C',
+};
+
+export default lightColors;
