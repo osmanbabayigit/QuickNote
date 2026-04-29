@@ -67,6 +67,7 @@ npm run ios
 
 ## Proje Yapısı
 
+```
 src/
 ├── screens/
 │   ├── HomeScreen.js
@@ -76,7 +77,7 @@ src/
 └── theme/
     ├── colors.js
     └── ThemeContext.js
-
+```
 ---
 
 ## Kullanılan Teknolojiler
@@ -91,6 +92,6 @@ src/
 
 ## Geliştirici
 
-Ad Soyad: Osman Babayiğit 
-E-posta: Osmanbabayigi1@icloud.com
-Universite / Bolum: Sivas Cumhuriyet Üniversitesi / Bilgisayar Mühendisliği
+- Ad Soyad: Osman Babayigit
+- E-posta: Osmanbabayigi1@icloud.com
+- Universite / Bolum: Sivas Cumhuriyet Universitesi / Bilgisayar Muhendisligi
