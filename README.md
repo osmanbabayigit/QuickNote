@@ -90,6 +90,9 @@ src/
 
 ---
 
+## Figma Linki
+https://www.figma.com/design/cGMitT9lEGJWgRrTohB6zH/Untitled?node-id=0-1&t=k1ibJdOq5cPA5amo-1
+
 ## Geliştirici
 
 - Ad Soyad: Osman Babayigit
